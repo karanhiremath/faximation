@@ -19,6 +19,8 @@
   "dependencies": {
     "envvar": "~1.0.0",
     "express": "~4.13.1",
-    "phaxio": "0.0.6"
+    "phaxio": "0.0.6",
+    "bluebird": "~2.9.34",
+    "body-parser": "~1.13.2"
   }
 }
